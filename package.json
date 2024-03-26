@@ -63,7 +63,7 @@
     "emmet-codemirror": "^1.2.5",
     "enzyme": "^3.2.0",
     "enzyme-adapter-react-15": "^1.0.5",
-    "express": "^4.13.3",
+    "express": "^4.19.2",
     "express-flash": "~0.0.2",
     "express-session": "^1.12.1",
     "express-state": "^1.2.0",
