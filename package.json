@@ -83,7 +83,7 @@
     "lightbox2": "~2.8.2",
     "lodash": "^4.1.0",
     "loopback": "^3.22.0",
-    "loopback-boot": "^2.27.1",
+    "loopback-boot": "^3.0.0",
     "loopback-component-passport": "git+https://github.com/freeCodeCamp/loopback-component-passport.git#feat/freecodecamp",
     "loopback-connector-mongodb": "^3.6.0",
     "method-override": "^2.3.0",
@@ -138,7 +138,7 @@
     "rx": "^4.1.0",
     "rx-dom": "^7.0.3",
     "sanitize-html": "^1.11.1",
-    "snyk": "^1.68.1",
+    "snyk": "^1.996.0",
     "store": "git+https://github.com/berkeleytrue/store.js.git#feature/noop-server",
     "uuid": "^3.0.1",
     "validator": "^9.4.0"
